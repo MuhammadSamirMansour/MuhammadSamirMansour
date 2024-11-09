@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  🌱 I’m currently learning **Digital IC Design & Verification** <br>
-  💬 Ask me about **Digital Electronics** <br>
-  📫 How to reach me **mohamed.mesry@gmail.com**
+  🌱 I’m currently learning Digital IC Design & Verification<br>
+  💬 Ask me about Digital Electronics<br>
+  📫 How to reach me: <a href="mailto:mohamed.mesry@gmail.com">mohamed.mesry@gmail.com</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
