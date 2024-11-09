@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedsamirmansour" alt="muhammedsamirmansour" /></a> </p>
 
-- 🌱 I’m currently learning **Digital Electronics, AI & Machine Learning**
+- 🌱 I’m currently learning **Digital IC Design & Verification**
 
-- 💬 Ask me about **Digital Electronics & Graphic Design**
+- 💬 Ask me about **Digital Electronics**
 
 - 📫 How to reach me **mohamed.mesry@gmail.com**
 
