@@ -11,11 +11,11 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Digital IC Design & Verification**
-
-- 💬 Ask me about **Digital Electronics**
-
-- 📫 How to reach me **mohamed.mesry@gmail.com**
+<p align="center">
+  🌱 I’m currently learning **Digital IC Design & Verification** <br>
+  💬 Ask me about **Digital Electronics** <br>
+  📫 How to reach me **mohamed.mesry@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
