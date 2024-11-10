@@ -38,6 +38,18 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> 
   </a> 
+  <a href="https://www.chipverify.com/verilog/verilog-tutorial" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Verilog_logo.svg" alt="Verilog" width="40" height="40"/>
+  </a>
+  <a href="https://www.chipverify.com/systemverilog/systemverilog-tutorial" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/SystemVerilog_logo.svg" alt="SystemVerilog" width="40" height="40"/>
+  </a>
+  <a href="https://www.mentor.com/products/fv/questasim/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Siemens_Mentor_Logo.svg" alt="QuestaSim" width="40" height="40"/>
+  </a>
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Xilinx_Vivado_logo.svg" alt="Vivado" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="center">GitHub Statistics:</h3>
